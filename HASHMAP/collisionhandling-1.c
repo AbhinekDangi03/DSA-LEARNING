@@ -13,6 +13,7 @@ struct Entry
 
 struct Entry* arrayTable[SIZE];
 
+
 unsigned int hash(int key)
     {
         return key%SIZE;
