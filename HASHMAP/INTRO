@@ -1,0 +1,9 @@
+HASHMAP: 
+        MAP = a fancy box where you store pairs. (you give it key it give value)
+        HASH = something that takes the key and convert it into a number (called hash code)
+
+     WHATS HAPPENING INSIDE THE COMPUTER:
+        1. A hash turns a key into a number.
+        2. A map uses that number to index a contiguous bucket array.
+        3. Then either follows pointers in that bucket (chaining) or probes for an empty slot (open     addressing). 
+        4.
