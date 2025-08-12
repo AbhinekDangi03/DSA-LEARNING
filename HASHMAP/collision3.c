@@ -1,4 +1,6 @@
 // this is OPEN ADDRESSING WAY OF COLLISION HANDLING the hashmap.
+//CORE IDEA: if the home is full find the next one that is empty.
+
 #include <stdio.h>
 #include <stdlib.h>
 
