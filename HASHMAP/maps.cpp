@@ -6,14 +6,14 @@ int main()
         vector<int> array = {1,2,2,3,4,4,5,6,6};
         unordered_map<int, int> frec;
 
-        for(int c: array)
+        for(int i: array)
             {
-                frec[c]++;
+                frec[i]++;
             }
-        
-        for(auto &i : frec)
+
+        for(auto &i: frec)
             {
-                cout<<i.first << "occurs" <<i.second <<"times\n";
+                cout<<i.first << "occurs" <<i.second <<"times\n"
             }
         
         return 0;
