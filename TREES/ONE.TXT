@@ -1,0 +1,20 @@
+trees: 
+  hierichical data structure
+
+  SOME NAME:
+      1. Root Node: from where the entire tree is started.
+      2. Parent Node
+      3. Child Node: child of the parent node. 
+      4. leaf node: node with no childern.
+      5. Sibling Node: chidren of the same parent node. 
+      6. Ancestors: all nodes before the node you are pointing at.
+      7. Sub Tree: sub tree.
+
+  TYPES OF BINARY TREES:
+      1.Full Binary Tree = either node have 0 or 2 children but not 1.
+      2.Complete Binary Tree = all levels are completly filled except the last level
+                             = the last level has all the node towards as left as possible.
+      3. Perfect Binary Tree = All the leaf node are at the same level.
+      4. Balanced Binary Tree = Height of the tree at max should be log2(n), n = number of nodes.
+      5. Degenerate Tree = Every parent have a single children. 
+      
