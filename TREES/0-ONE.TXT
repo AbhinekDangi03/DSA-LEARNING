@@ -23,7 +23,7 @@ trees:
                            2. DFS = DEPT FIRST SEARCH TECH.
 
                 1. BFS = 
-                          1. Print every element that is present in the same level of tree. 
+                          1. Print every element that is present in the same level of tree. It show the element per level.
                                                                (10)
                                                               /    \
                                                             (5)    (15)
