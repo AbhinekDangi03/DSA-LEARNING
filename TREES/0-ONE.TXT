@@ -70,4 +70,4 @@ trees:
 
                                                         Traveral Path: 
                                                           1. Go to the left subtree;
-                                                          2. apply logic = 25, 20, 5, 35, 30, 15, 10
+                                                          2. apply logic = 25, 20, 5, 35, 30, 15, 10.
