@@ -61,7 +61,8 @@ trees:
 
                                                         therefore: it will display somethingl like: 10,5,25,20,15, 35,30;
 
-                          3. POST-ORDER TRAVERSAL TECH.: LOGIC = (left -> right -> root) 
+                          3. POST-ORDER TRAVERSAL TECH.: LOGIC = (left -> right -> root).
+                          
                                                                 (10)
                                                               /    \
                                                             (5)    (15)
