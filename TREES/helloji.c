@@ -13,4 +13,10 @@ struct ques
     int front,rear;
   };
 
+
+
+
 void enque(struct node* node, struct ques* q)
+
+
+just for the daily ocunter ididn't do nothing today and i watched anime all day!!!
